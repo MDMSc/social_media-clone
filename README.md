@@ -1,4 +1,4 @@
-# social_media_clone-backend
+# Social Media Clone Backend
 
 This is the backend code for social media clone project.
 
